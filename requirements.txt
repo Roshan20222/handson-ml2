@@ -1,6 +1,6 @@
 # WARNING: Using Anaconda instead of pip is highly recommended, especially on
 # Windows or when using a GPU. Please see the installation instructions in
-# INSTALL.md
+# INSTALL.
 
 
 ##### Core scientific packages
